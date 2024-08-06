@@ -1,3 +1,5 @@
+![Alt text](/Dynamic_Web_Site_on_AWS_with_CloudFormation.png)
+
 # DevOps Project: Dynamic Website on AWS
 
 Welcome to the DevOps Project: Dynamic Website on AWS! This repository contains a reference diagram to deploy a dynamic website using AWS CloudFormation.
